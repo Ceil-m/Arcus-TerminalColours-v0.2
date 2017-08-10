@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 import random
-#print("TermCols v0.2 (originally) by Ceil")
+#print("Arcus-TerminalColours v0.2 (originally) by Ceil")
 '''
-	TermCols v0.2 (originally) by Ceil
+	Arcus-TerminalColours v0.2 (originally) by Ceil
 
 	***This is free software. Anyone can use, modify, and redistribute
 	(if you do modify and redistribute, credit is appreciated)*** 
@@ -11,7 +11,7 @@ import random
 	USAGE
 	=====
 	How to import: 
-	from cols import * 
+	from arcus import * 
 
 	Usage Examples:
 	*print(green+"This text is green!")
