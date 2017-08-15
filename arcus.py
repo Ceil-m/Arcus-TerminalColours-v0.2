@@ -45,7 +45,7 @@ lred = '\033[91m'			#light red
 lgreen = '\033[92m'			#light green
 lblue = '\033[94m'			#light blue
 lcyan = '\033[96m'			#light cyan
-lyellow = '\033[93m'		#light yellow
+lyellow = '\033[93m'			#light yellow
 lgray = '\033[37m'			#light gray
 dgray = '\033[90m'			#dark gray
 
